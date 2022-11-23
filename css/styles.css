@@ -258,7 +258,7 @@ width: auto;
     border-radius: 30px;
     padding: 20px;
     margin: 50px 50px;
-    background-color: crimson;
+    background-image: linear-gradient(rgb(203, 13, 13), rgb(239, 56, 175));
 }
 
 .publicidad div p {
