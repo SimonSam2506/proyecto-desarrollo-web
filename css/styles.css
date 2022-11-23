@@ -85,9 +85,10 @@ display: flex;
 flex-direction: column;
 justify-content: center;
 }
+
+
 .principal h2 {
     background-image: linear-gradient(rgb(250, 101, 238), rgb(59, 2, 59));
-    margin-top: 50px;
     display: flex;
     flex-direction: column;
     text-align: center;
